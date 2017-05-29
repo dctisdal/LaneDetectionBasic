@@ -57,7 +57,7 @@ Then I put the extrapolated points pair into the cv.line function. After drawing
 I apply the mask again the get of the lane that extends beyond the mask.
 
 Below is an example for land detection:
-![alt text][image1]
+<img src="/test_images/outfile.jpg" width="480" alt="Combined Image" />
 
 
 ### 2. Identify potential shortcomings with your current pipeline
