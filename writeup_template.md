@@ -9,8 +9,6 @@ The goals / steps of this project are the following:
 * Reflect on your work in a written report
 
 
-[//]: # (Image References)
-[image1]: ./test_images/outfile.jpg "lane detection"
 ---
 
 ### Reflection
@@ -59,8 +57,7 @@ Then I put the extrapolated points pair into the cv.line function. After drawing
 I apply the mask again the get of the lane that extends beyond the mask.
 
 Below is an example for land detection:
-
-<img src="test_images/outfile.jpg" width="480" alt="Combined Image"/>
+![alt text][image1]
 
 
 ### 2. Identify potential shortcomings with your current pipeline
