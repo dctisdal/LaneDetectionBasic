@@ -1,5 +1,8 @@
 # Lane Detection Basic 
 
+Below is an example for land detection:
+
+<img src="examples/laneLines_thirdPass.jpg" width="480" alt="Combined Image" />
 
 Overview
 ---
@@ -134,8 +137,4 @@ def draw_lines(img, lines, color=[255, 0, 0], thickness=2):
                 continue
 ```
 
-
-Below is an example for land detection:
-
-<img src="examples/laneLines_thirdPass.jpg" width="480" alt="Combined Image" />
 
